@@ -1,0 +1,44 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 300;
+    background-image: linear-gradient(to bottom, #00f490, #00bbc9);
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+.jumbotron {
+    background-color: rgba(255, 255, 0, 0);
+}
+.drop-shadow {
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.295);
+}
+.lead {
+    color: #FFF;
+    font-size: 2.2rem;
+}
+.btn-outline-light {
+    border-color: white;
+}
+.btn-primary{
+    background-color: #00f490;
+    border-color: #00f490;
+}
+.btn-primary:hover{
+    background-color: #00bbc9;
+    border-color: #00bbc9;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Open Sans', sans-serif; */
